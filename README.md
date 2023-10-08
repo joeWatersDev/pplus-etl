@@ -11,4 +11,4 @@ Intended data usage is to create:
 - A confidence rating for each matchup
 - Tier lists based on multiple statistical factors
 
-Final formatted results can be viewed [here]([https://www.google.com](https://docs.google.com/spreadsheets/d/1E2tkjYEXMPvdOjlCBqv1U7iHilljt_u1QNM7mPG3NXg/edit?usp=sharing)https://docs.google.com/spreadsheets/d/1E2tkjYEXMPvdOjlCBqv1U7iHilljt_u1QNM7mPG3NXg/edit?usp=sharing "P+ 2023 Community Matchup Chart").
+Final formatted results can be viewed [here](https://docs.google.com/spreadsheets/d/1E2tkjYEXMPvdOjlCBqv1U7iHilljt_u1QNM7mPG3NXg/edit?usp=sharing "P+ 2023 Community Matchup Chart").
