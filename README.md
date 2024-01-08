@@ -5,7 +5,7 @@ ETL Pipeline for P+ Matchup Data
 
 Pipeline for processing responses collected from a Google Form survey into data formatted for statistical analysis.
 
-Utilizes Python, Pandas, and NumPy for data processing, and Jupyter for documenting the workflow.
+Utilizes Python, Pandas, and NumPy for data processing, and Jupyter for [documenting the workflow](https://github.com/joeWatersDev/pplus-etl/blob/main/PPlusETL.ipynb).
 
 ## Purpose
 Intended data usage is to create:
